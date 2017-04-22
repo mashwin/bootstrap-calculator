@@ -1,0 +1,22 @@
+.vcenter {
+    margin-top: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.commonpadd {
+  padding: 1px;
+}
+
+.width72 {
+  width:72px
+}
+
+.topdist {
+  margin-top: 5px;
+}
+
+.width150 {
+  width:150px;
+}
